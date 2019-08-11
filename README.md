@@ -1,8 +1,8 @@
 ## React Native Calculator App
 
-![Demo](./assets/example-ios.jpg)
-![Demo](./assets/example-android.jpg)
-![Demo](./assets/example.gif)
+![Demo](./assets/example-ios.png)
+![Demo](./assets/example-android.png)
+<!-- ![Demo](./assets/example.gif) -->
 
 ### Installation
 
